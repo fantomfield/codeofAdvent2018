@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b15159a-82ba-4c05-bf91-6b52aea81aa6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="adventOfCode" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-883816170">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="15" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="15" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2319" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2319" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/adventOfCode/day01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/adventOfCode/day02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2226#2227#0" expanded="true" />
+                <element signature="e#2276#2277#0" expanded="true" />
+                <element signature="e#2330#2331#0" expanded="true" />
+                <element signature="e#2380#2381#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="e#1464#1658#0" expanded="true" />
+                <element signature="e#1657#1658#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/statements/InvokeMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="369" selection-start-line="369" selection-end-line="369" />
+              <folding>
+                <element signature="e#2922#2923#0" expanded="true" />
+                <element signature="e#2966#2967#0" expanded="true" />
+                <element signature="e#10310#10449#0" expanded="true" />
+                <element signature="e#10448#10449#0" expanded="true" />
+                <element signature="e#11040#11204#0" expanded="true" />
+                <element signature="e#11203#11204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="701">
+              <caret line="756" column="6" selection-start-line="756" selection-start-column="6" selection-end-line="756" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/input2.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>-10</find>
+      <find>21</find>
+      <find>423</find>
+      <find>:47</find>
+      <find>:55</find>
+      <find>:60</find>
+      <find>61523</find>
+      <find>:61523</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="5.0" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="adventOfCode" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="adventOfCode" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'adventOfCode'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'adventOfCode'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'adventOfCode'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'adventOfCode'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'adventOfCode'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'adventOfCode'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'adventOfCode'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'adventOfCode'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'adventOfCode'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6175491097000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3119077146" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2630766971" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2057410659" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="adventOfCode" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/ant-1.9.13.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/ant-launcher-1.9.13.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-api-metadata-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-base-services-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-base-services-groovy-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-build-cache-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-build-option-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-cli-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-core-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-core-api-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-docs-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-files-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-installation-beacon-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-jvm-services-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-kotlin-dsl-1.0.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-kotlin-dsl-provider-plugins-1.0.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-kotlin-dsl-tooling-builders-1.0.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-kotlin-dsl-tooling-models-1.0.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-launcher-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-logging-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-messaging-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-model-core-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-model-groovy-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-native-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-persistent-cache-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-process-services-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-resources-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-runtime-api-info-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-snapshots-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-tooling-api-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/gradle-wrapper-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-announce-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-antlr-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-build-cache-http-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-build-comparison-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-build-init-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-code-quality-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-composite-builds-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-dependency-management-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-diagnostics-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-ear-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-ide-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-ide-native-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-ide-play-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-ivy-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-jacoco-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-javascript-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-language-groovy-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-language-java-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-language-jvm-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-language-native-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-language-scala-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-maven-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-osgi-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-platform-base-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-platform-jvm-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-platform-native-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-platform-play-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-plugin-development-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-plugin-use-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-plugins-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-publish-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-reporting-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-resources-gcs-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-resources-http-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-resources-s3-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-resources-sftp-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-scala-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-signing-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-test-kit-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-testing-base-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-testing-junit-platform-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-testing-jvm-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-testing-native-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-tooling-api-builders-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-tooling-native-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-version-control-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/gradle-workers-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-bin/pu5208521seraqlersebvqk/gradle-5.0/lib/plugins/ivy-2.3.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/adventOfCode/day01.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/input.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/adventOfCode/day02.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="59" />
+    <option name="y" value="43" />
+    <option name="width" value="1371" />
+    <option name="height" value="837" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adventOfCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adventOfCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adventOfCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adventOfCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adventOfCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adventOfCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adventOfCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adventOfCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543881260233" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.day02">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day01.star02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adventOfCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adventOfCode" />
+      <option name="MAIN_CLASS_NAME" value="adventOfCode.day01" />
+      <option name="METHOD_NAME" value="star02" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adventOfCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adventOfCode" />
+      <option name="MAIN_CLASS_NAME" value="adventOfCode.day02" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day02.simpleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adventOfCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adventOfCode" />
+      <option name="MAIN_CLASS_NAME" value="adventOfCode.day02" />
+      <option name="METHOD_NAME" value="simpleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day02.star03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adventOfCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adventOfCode" />
+      <option name="MAIN_CLASS_NAME" value="adventOfCode.day02" />
+      <option name="METHOD_NAME" value="star03" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day02.star04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adventOfCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adventOfCode" />
+      <option name="MAIN_CLASS_NAME" value="adventOfCode.day02" />
+      <option name="METHOD_NAME" value="star04" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.day01.star02" />
+      <item itemvalue="JUnit.day02.star03" />
+      <item itemvalue="JUnit.day02.simpleTest" />
+      <item itemvalue="JUnit.day02" />
+      <item itemvalue="JUnit.day02.star04" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.day02" />
+        <item itemvalue="JUnit.day02.star04" />
+        <item itemvalue="JUnit.day02.star03" />
+        <item itemvalue="JUnit.day02.simpleTest" />
+        <item itemvalue="JUnit.day01.star02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b15159a-82ba-4c05-bf91-6b52aea81aa6" name="Default Changelist" comment="" />
+      <created>1543872792192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543872792192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="day02_star04 - 2018.12.03 at 23h 43m 00s.xml">
+      <configuration name="day02.star04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="day02 - 2018.12.03 at 23h 43m 10s.xml">
+      <configuration name="day02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="day02_star04 - 2018.12.03 at 23h 43m 43s.xml">
+      <configuration name="day02.star04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="day02_star04 - 2018.12.03 at 23h 43m 58s.xml">
+      <configuration name="day02.star04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="day02_star04 - 2018.12.03 at 23h 44m 31s.xml">
+      <configuration name="day02.star04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="day02_star04 - 2018.12.03 at 23h 45m 57s.xml">
+      <configuration name="day02.star04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="day02_star04 - 2018.12.03 at 23h 47m 31s.xml">
+      <configuration name="day02.star04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="day02_star04 - 2018.12.03 at 23h 48m 23s.xml">
+      <configuration name="day02.star04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="day02_star04 - 2018.12.03 at 23h 50m 30s.xml">
+      <configuration name="day02.star04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="day02 - 2018.12.03 at 23h 53m 26s.xml">
+      <configuration name="day02" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="59" y="43" width="1371" height="837" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2535741" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.3295711" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/adventOfCode/day02.java</url>
+          <line>36</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/LibraryTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/adventOfCode/LibraryTest.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/nio/file/Paths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/inputTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/adventOfCode/day01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/input2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="701">
+          <caret line="756" column="6" selection-start-line="756" selection-start-column="6" selection-end-line="756" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="627" column="6" selection-start-line="627" selection-start-column="6" selection-end-line="627" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#1464#1658#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/statements/InvokeMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runner/JUnitCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="369" selection-start-line="369" selection-end-line="369" />
+          <folding>
+            <element signature="e#2922#2923#0" expanded="true" />
+            <element signature="e#2966#2967#0" expanded="true" />
+            <element signature="e#10310#10449#0" expanded="true" />
+            <element signature="e#10448#10449#0" expanded="true" />
+            <element signature="e#11040#11204#0" expanded="true" />
+            <element signature="e#11203#11204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/adventOfCode/day02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2226#2227#0" expanded="true" />
+            <element signature="e#2276#2277#0" expanded="true" />
+            <element signature="e#2330#2331#0" expanded="true" />
+            <element signature="e#2380#2381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
